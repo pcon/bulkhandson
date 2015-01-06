@@ -1,6 +1,8 @@
 Bulk Data Testing - Hands On Training
 --
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pcon/bulkhandson/trend.png)](https://bitdeli.com/free "Bitdeli Badge") [![GPL](https://img.shields.io/badge/license-GPL-blue.svg?style=flat)](https://github.com/pcon/bulkhandson/blob/master/LICENSE)
+
 1. [Signup](http://bit.ly/bulkhandson) for Developer Edition Org
   * __Email:__ Any email address you can currently reach
   * __Username:__ Anything in the form of an email _(Example: bob+bulkhandson@example.com)_
@@ -31,5 +33,3 @@ _Need help? Checkout some [hints](HINTS.md)_
 Bonus
 --
 * Write a bulk test that creates 200 leads. Half are 'Free Trial' half not. Assert in your test that all 'Free Trial' leads have been auto converted while your 'Not Free Trial' leads are not.
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pcon/bulkhandson/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
