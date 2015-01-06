@@ -31,3 +31,5 @@ _Need help? Checkout some [hints](HINTS.md)_
 Bonus
 --
 * Write a bulk test that creates 200 leads. Half are 'Free Trial' half not. Assert in your test that all 'Free Trial' leads have been auto converted while your 'Not Free Trial' leads are not.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pcon/bulkhandson/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
